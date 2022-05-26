@@ -1,1 +1,2 @@
-# Disease_chatbot
+# chatbot
+chat bot for disease classification
